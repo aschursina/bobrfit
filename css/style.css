@@ -55,10 +55,10 @@ a {
 
 /*HEADER*/
 .main__head {
-  background-image: url("../img/main2.JPG");
+  background-image: url("../img/photo1703579014.jpeg");
   background-repeat: no-repeat;
   background-color: #ebeef3;
-  background-position: 100% 66%;
+  background-position: 100% 55%;
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -88,9 +88,10 @@ a {
   align-items: center;
 }
 
-.head__logo {
+/*.head__logo {
   width: 179px;
-}
+  color: white;
+} */
 
 .head__menu {
   font-size: 13px;
